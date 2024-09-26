@@ -1,0 +1,8 @@
+{
+    "globallog": {
+      "deletion": "YOUR_DELETION_WEBHOOK_URL",
+      "ping": "YOUR_PING_WEBHOOK_URL",
+      "edit": "YOUR_EDIT_WEBHOOK_URL"
+    }
+  }
+  

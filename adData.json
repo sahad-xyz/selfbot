@@ -1,0 +1,142 @@
+{
+  "bought": [
+    {
+      "id": "EW",
+      "serverURL": ".gg/taunting",
+      "amount": 21,
+      "paymentMethod": "CA",
+      "adInfo": "200qs",
+      "status": "ended"
+    },
+    {
+      "id": "jQ",
+      "serverURL": ".gg/violet",
+      "amount": 2,
+      "paymentMethod": "CA",
+      "adInfo": "30qs",
+      "status": "ended"
+    },
+    {
+      "id": "wb",
+      "serverURL": ".gg/veehaven",
+      "amount": 15,
+      "paymentMethod": "CA",
+      "adInfo": "5d bundle 300j",
+      "status": "ended"
+    },
+    {
+      "id": "7t",
+      "serverURL": ".gg/amore",
+      "amount": 3,
+      "paymentMethod": "CA",
+      "adInfo": "55j",
+      "status": "ended"
+    },
+    {
+      "id": "Wv",
+      "serverURL": ".gg/unknown",
+      "amount": 9,
+      "paymentMethod": "CA",
+      "adInfo": "100qs",
+      "status": "ended"
+    },
+    {
+      "id": "Zv",
+      "serverURL": ".gg/taunting",
+      "amount": 19,
+      "paymentMethod": "CA",
+      "adInfo": "200qj",
+      "status": "ended"
+    },
+    {
+      "id": "Re",
+      "serverURL": ".gg/veehaven",
+      "amount": 11,
+      "paymentMethod": "CA",
+      "adInfo": "100qj",
+      "status": "ended"
+    },
+    {
+      "id": "8O",
+      "serverURL": ".gg/taunting",
+      "amount": 11,
+      "paymentMethod": "CA",
+      "adInfo": "100qs",
+      "status": "ended"
+    },
+    {
+      "id": "cP",
+      "serverURL": ".gg/taunting",
+      "amount": 10,
+      "paymentMethod": "CA",
+      "adInfo": "125qj",
+      "status": "ended"
+    },
+    {
+      "id": "Hg",
+      "serverURL": ".gg/kami",
+      "amount": 13,
+      "paymentMethod": "CA",
+      "adInfo": "100qj",
+      "status": "ended"
+    },
+    {
+      "id": "VI",
+      "serverURL": ".gg/taunting",
+      "amount": 290,
+      "paymentMethod": "CA",
+      "adInfo": "5000j",
+      "status": "started"
+    }
+  ],
+  "sold": [
+    {
+      "id": "LQ",
+      "serverURL": ".gg/kami",
+      "amount": 6.25,
+      "paymentMethod": "PP",
+      "adInfo": "100qj",
+      "status": "ended"
+    },
+    {
+      "id": "wK",
+      "serverURL": ".gg/noodle",
+      "amount": 6.25,
+      "paymentMethod": "CA",
+      "adInfo": "100qj",
+      "status": "ended"
+    },
+    {
+      "id": "bw",
+      "serverURL": ".gg/daydreams",
+      "amount": 1.99,
+      "paymentMethod": "CRYPTO",
+      "adInfo": "60qj",
+      "status": "ended"
+    },
+    {
+      "id": "KF",
+      "serverURL": ".gg/NotProvided",
+      "amount": 0.85,
+      "paymentMethod": "CRYPTO",
+      "adInfo": "35qj",
+      "status": "ended"
+    },
+    {
+      "id": "mz",
+      "serverURL": ".gg/taunting",
+      "amount": 1.1,
+      "paymentMethod": "CA",
+      "adInfo": "10qjs",
+      "status": "ended"
+    },
+    {
+      "id": "xe",
+      "serverURL": ".gg/danks",
+      "amount": 27,
+      "paymentMethod": "PP",
+      "adInfo": "500j/325s",
+      "status": "started"
+    }
+  ]
+}

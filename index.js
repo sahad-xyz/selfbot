@@ -1,7 +1,7 @@
 const { Client, Collection } = require('discord.js-selfbot-v13');
 const fs = require('fs');
 const client = new Client();
-const token = 'NDE3MzgxMzA0NTk4OTIxMjE3.G5D9D2.x8a8F18grCmy2F7CzHU90cZtcrKPlpElcwp5wI'; // Replace with your actual Discord user token
+const token = ''; // Replace with your actual Discord user token
 
 // Ensure config directory and config.json exist
 const configDir = './config';
@@ -101,5 +101,6 @@ client.on('messageUpdate', async (oldMessage, newMessage) => {
     const globallogCommand = client.commands.get('globallog');
     if (globallogCommand) await globallogCommand.handleEdit(oldMessage, newMessage);
 });
+
 
 client.login(token).catch(console.error);
